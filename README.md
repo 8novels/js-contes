@@ -1,4 +1,4 @@
-# js-snack
+# JavaScript掌編集
 
 ## Episodes
 
